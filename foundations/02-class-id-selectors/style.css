@@ -1,0 +1,16 @@
+.testing-class {
+    background-color: rgb(255, 125, 125);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#first-id {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+.but-cooler {
+    font-size: 24px;
+}
+#second-id {
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
